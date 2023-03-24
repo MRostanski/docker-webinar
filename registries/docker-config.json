@@ -1,0 +1,19 @@
+{
+	"auths": {
+		"012345678901.dkr.ecr.eu-central-1.amazonaws.com": {
+			"auth": "y3$QVdTOmV5SndZWGxzYjJGa0lqb2laMWhsTlVaS1ZXczRSSGgyUzBOT2EzVnRlbTVvZEhselpsUmxlakpQU25KU05sb...="
+		},
+		"987654320212.dkr.ecr.us-east-1.amazonaws.com": {
+			"auth": "y3$QVdTOmV5SndZWGxzYjJGa0lqb2laMWhsTlVaS1ZXczRSSGgyUzBOT2EzVnRlbTVvZEhselpsUmxlakpQU25KU05sb...="
+		},
+		"https://index.docker.io/v1/": {
+			"auth": "abmNzeXN0ZW1zOlNICETRYRTVpYRTVZUTc="
+		},
+		"registry.gitlab.com": {
+			"auth": "D0NoTh4ckTh1$3RhbnNraTpnbHBhdC1oX1pxD0NoTh4ckTh1$=="
+		}
+	},
+	"aliases": {
+		"builder": "buildx"
+	}
+}
